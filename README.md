@@ -95,7 +95,7 @@ Usage:
 
 ## 2. ```reconstruct```
 Usage: 
-```reconstruct <Required arguments> <Optional arguments>```
+```coral reconstruct <Required arguments> <Optional arguments>```
 
 **2.1 Required arguments:**
 * ```--lr-bam <FILE>``` - Coordinate sorted ```*.BAM``` file, with ```*.bai``` index (mapped to the provided reference genome) in the same directory.
